@@ -1,0 +1,1072 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:2:1-520:12
+	package
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:3:11-43
+		INJECTED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:5:5-10:42
+MERGED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:9:5-14:39
+	android:largeScreens
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:7:13-40
+	android:smallScreens
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:10:13-40
+	android:normalScreens
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:8:13-41
+	android:resizeable
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:9:13-38
+	android:anyDensity
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:6:13-38
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:12:5-67
+MERGED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:17:5-67
+MERGED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:34:5-67
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:13:5-79
+MERGED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:18:5-79
+MERGED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:27:5-79
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:15:5-64
+MERGED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:29:5-65
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:15:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:16:5-80
+MERGED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:16:22-78
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:18:5-59
+MERGED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:38:5-60
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:18:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:19:5-69
+MERGED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:19:19-67
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:21:22-63
+uses-permission#android.permission.FLASHLIGHT
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:22:5-68
+MERGED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:36:5-69
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:22:22-66
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:30:5-80
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:30:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:31:5-78
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:31:22-76
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:32:5-72
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:32:22-70
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:34:5-75
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:34:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:35:5-74
+MERGED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:35:5-75
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:35:22-72
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:36:5-83
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:36:22-81
+uses-permission#android.permission.READ_LOGS
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:37:5-67
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:37:22-65
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:73:5-67
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:73:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:74:5-80
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:74:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:77:5-75
+MERGED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:22:5-76
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:77:22-73
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:78:5-68
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:78:22-66
+uses-permission#getui.permission.GetuiService.com.HBuilder.integrate
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:79:5-91
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:79:22-89
+permission#getui.permission.GetuiService.com.HBuilder.integrate
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:81:5-83:47
+	android:protectionLevel
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:83:13-45
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:82:13-80
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:99:5-79
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:99:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:107:5-70
+MERGED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:31:5-71
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:107:22-68
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:110:5-78
+MERGED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:110:22-76
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:119:5-78
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:119:22-76
+uses-permission#com.xiaomi.permission.AUTH_SERVICE
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:124:5-73
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:124:22-71
+application
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:127:5-518:19
+MERGED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:77:5-221:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.android\build-cache\79707bc59f88d6b3ba64a3c3cde293c92f8f65ec\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator\.android\build-cache\78f1c7f6bf627c92fa601c6bf8a3c4db81f44055\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrator\.android\build-cache\f6f3fc5cf4df975059fa8da14a65b6deec81d9da\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrator\.android\build-cache\11ea629048950f552ba5daf7c5d37c1f69e973c3\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrator\.android\build-cache\9d73a76fd775093daa3807a9a44c58299fc35efb\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Administrator\.android\build-cache\42c7295821619b06e488077705f031a83a1eb45c\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Administrator\.android\build-cache\79e91a7242f2dc44033de03550981d7d5b17f0da\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrator\.android\build-cache\f467460faa45754717f250cca72360ef8c7750a9\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrator\.android\build-cache\1ad6a950a8f8dd840c713be367d9dcf91503dce0\output\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.android\build-cache\a98dc62f4fb87b6d04b4e7e0cddf92ae68759d82\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Administrator\.android\build-cache\08521b768343a850d118af59a556e2161d8d584b\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:132:13-45
+	android:supportsRtl
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:134:13-39
+	android:allowClearUserData
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:130:13-46
+	android:allowBackup
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:129:13-39
+	android:icon
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:131:13-42
+	android:largeHeap
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:133:13-37
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:128:13-67
+meta-data#UMENG_APPKEY
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:140:9-142:49
+	android:value
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:142:17-47
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:141:17-44
+meta-data#UMENG_CHANNEL
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:143:9-145:45
+	android:value
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:145:17-43
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:144:17-45
+meta-data#QQ_APPID
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:168:9-170:42
+	android:value
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:170:17-40
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:169:17-40
+activity#com.tencent.tauth.AuthActivity
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:172:9-184:20
+	android:launchMode
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:174:17-48
+	android:noHistory
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:175:17-41
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:173:17-62
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:176:13-183:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:177:17-68
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:177:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:179:17-75
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:179:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:180:17-77
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:180:27-75
+data
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:182:17-49
+	android:scheme
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:182:23-47
+activity#com.tencent.connect.common.AssistActivity
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:185:9-188:78
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:187:17-53
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:188:17-76
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:186:17-73
+meta-data#IFLY_APPKEY
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:202:9-204:43
+	android:value
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:204:17-41
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:203:17-43
+meta-data#PUSH_APPID
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:214:9-216:57
+	android:value
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:216:17-55
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:215:17-42
+meta-data#PUSH_APPKEY
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:217:9-219:57
+	android:value
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:219:17-55
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:218:17-43
+meta-data#PUSH_APPSECRET
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:220:9-222:57
+	android:value
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:222:17-55
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:221:17-46
+service#com.igexin.sdk.PushService
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:224:9-232:19
+	android:process
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:228:17-47
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:227:17-51
+	android:exported
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:226:17-40
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:225:17-58
+intent-filter#com.igexin.sdk.action.service.message
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:229:13-231:29
+action#com.igexin.sdk.action.service.message
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:230:17-79
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:230:25-77
+receiver#com.igexin.sdk.PushReceiver
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:234:9-244:20
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:234:19-61
+intent-filter#android.intent.action.ACTION_POWER_CONNECTED+android.intent.action.ACTION_POWER_DISCONNECTED+android.intent.action.BOOT_COMPLETED+android.intent.action.MEDIA_MOUNTED+android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE+com.igexin.sdk.action.refreshls
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:235:13-243:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:236:17-78
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:236:25-76
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:237:17-78
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:237:25-76
+action#android.intent.action.USER_PRESENT
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:238:17-76
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:238:25-74
+action#com.igexin.sdk.action.refreshls
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:239:17-73
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:239:25-71
+action#android.intent.action.MEDIA_MOUNTED
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:240:17-77
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:240:25-75
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:241:17-86
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:241:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:242:17-89
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:242:25-87
+activity#com.igexin.sdk.PushActivity
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:246:9-252:78
+	android:process
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:250:17-47
+	android:excludeFromRecents
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:248:17-50
+	android:exported
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:249:17-41
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:252:17-76
+	android:taskAffinity
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:251:17-71
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:247:17-59
+activity#com.igexin.sdk.GActivity
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:253:9-259:78
+	android:process
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:257:17-47
+	android:excludeFromRecents
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:255:17-50
+	android:exported
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:256:17-40
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:259:17-76
+	android:taskAffinity
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:258:17-71
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:254:17-56
+receiver#io.dcloud.feature.apsGt.GTNotificationReceiver
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:261:9-269:20
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:261:19-80
+intent-filter#android.intent.action.BOOT_COMPLETED+com.HBuilder.integrate.__CLEAR_NOTIFICATION+com.HBuilder.integrate.__CLILK_NOTIFICATION+com.HBuilder.integrate.__CREATE_NOTIFICATION+com.HBuilder.integrate.__REMOVE_NOTIFICATION
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:262:13-268:29
+action#com.HBuilder.integrate.__CREATE_NOTIFICATION
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:264:17-86
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:264:25-84
+action#com.HBuilder.integrate.__REMOVE_NOTIFICATION
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:265:17-86
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:265:25-84
+action#com.HBuilder.integrate.__CLEAR_NOTIFICATION
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:266:17-85
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:266:25-83
+action#com.HBuilder.integrate.__CLILK_NOTIFICATION
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:267:17-85
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:267:25-83
+service#io.dcloud.feature.apsGt.GTNormalIntentService
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:271:9-80
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:271:18-78
+service#io.dcloud.feature.apsGt.GTNormalPushService
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:272:9-276:49
+	android:process
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:276:17-47
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:275:17-44
+	android:exported
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:274:17-40
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:273:17-75
+meta-data#SINA_REDIRECT_URI
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:284:9-286:56
+	android:value
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:286:17-54
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:285:17-49
+meta-data#SINA_SECRET
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:287:9-289:56
+	android:value
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:289:17-54
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:288:17-43
+meta-data#SINA_APPKEY
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:290:9-292:68
+	android:value
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:292:17-66
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:291:17-43
+activity#com.sina.weibo.sdk.web.WeiboSdkWebActivity
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:294:9-298:61
+	android:exported
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:297:17-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:298:17-59
+	android:configChanges
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:296:17-67
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:295:17-74
+activity#com.sina.weibo.sdk.share.WbShareTransActivity
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:299:9-308:20
+	android:launchMode
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:301:17-48
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:302:17-87
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:300:17-77
+intent-filter#android.intent.category.DEFAULT+com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:303:13-307:29
+action#com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:304:17-91
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:304:25-89
+meta-data#TENCENT_REDIRECT_URI
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:314:9-316:56
+	android:value
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:316:17-54
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:315:17-52
+meta-data#TENCENT_SECRET
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:317:9-319:56
+	android:value
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:319:17-54
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:318:17-46
+meta-data#TENCENT_APPKEY
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:320:9-322:68
+	android:value
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:322:17-66
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:321:17-46
+activity#io.dcloud.share.tencent.WebAuthorize
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:324:9-326:66
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:326:17-64
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:325:17-68
+meta-data#WX_SECRET
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:328:9-330:67
+	android:value
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:330:17-65
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:329:17-41
+meta-data#WX_APPID
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:331:9-333:53
+	android:value
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:333:17-51
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:332:17-40
+activity#com.HBuilder.integrate.wxapi.WXEntryActivity
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:335:9-347:20
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:338:17-49
+	android:launchMode
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:339:17-47
+	android:exported
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:337:17-40
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:336:17-54
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:340:13-346:29
+activity#com.alipay.sdk.app.H5PayActivity
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:352:9-357:73
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:356:17-51
+	android:exported
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:355:17-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:357:17-71
+	android:configChanges
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:354:17-78
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:353:17-64
+activity#com.alipay.sdk.auth.AuthActivity
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:358:9-362:53
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:362:17-51
+	android:exported
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:361:17-41
+	android:configChanges
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:360:17-78
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:359:17-64
+activity#com.HBuilder.integrate.wxapi.WXPayEntryActivity
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:367:9-370:49
+	android:launchMode
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:370:17-47
+	android:exported
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:369:17-40
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:368:17-57
+meta-data#MIUI_APPID
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:378:9-380:48
+	android:value
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:380:17-46
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:379:17-42
+meta-data#MIUI_APPSECRET
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:381:9-383:51
+	android:value
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:383:17-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:382:17-46
+meta-data#MIUI_REDIRECT_URI
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:384:9-386:46
+	android:value
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:386:17-44
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:385:17-49
+activity#com.xiaomi.account.openauth.AuthorizeActivity
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:388:9-81
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:388:19-79
+service#com.xiaomi.push.service.XMPushService
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:399:9-402:49
+	android:enabled
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:401:17-39
+	android:process
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:402:17-47
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:400:17-69
+service#com.xiaomi.push.service.XMJobService
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:403:9-408:49
+	android:enabled
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:405:17-39
+	android:process
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:408:17-47
+	android:exported
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:406:17-41
+	android:permission
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:407:17-73
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:404:17-68
+service#com.xiaomi.mipush.sdk.PushMessageHandler
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:409:9-412:42
+	android:enabled
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:411:17-39
+	android:exported
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:412:17-40
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:410:17-72
+service#com.xiaomi.mipush.sdk.MessageHandleService
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:413:9-415:41
+	android:enabled
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:415:17-39
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:414:17-74
+receiver#com.xiaomi.push.service.receivers.NetworkStatusReceiver
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:417:9-425:20
+	android:exported
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:419:17-40
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:418:17-87
+intent-filter#android.intent.category.DEFAULT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:420:13-424:29
+receiver#com.xiaomi.push.service.receivers.PingReceiver
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:426:9-433:20
+	android:process
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:429:17-47
+	android:exported
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:428:17-41
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:427:17-78
+intent-filter#com.xiaomi.push.PING_TIMER
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:430:13-432:29
+action#com.xiaomi.push.PING_TIMER
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:431:17-68
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:431:25-66
+receiver#io.dcloud.feature.apsXm.XMMessageReceiver
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:434:9-446:20
+	android:exported
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:436:17-40
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:435:17-73
+intent-filter#com.xiaomi.mipush.RECEIVE_MESSAGE
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:437:13-439:29
+action#com.xiaomi.mipush.RECEIVE_MESSAGE
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:438:17-75
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:438:25-73
+intent-filter#com.xiaomi.mipush.MESSAGE_ARRIVED
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:440:13-442:29
+action#com.xiaomi.mipush.MESSAGE_ARRIVED
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:441:17-75
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:441:25-73
+intent-filter#com.xiaomi.mipush.ERROR
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:443:13-445:29
+action#com.xiaomi.mipush.ERROR
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:444:17-65
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:444:25-63
+receiver#io.dcloud.feature.apsXm.XMNotificationReceiver
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:447:9-457:20
+	android:exported
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:449:17-40
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:448:17-78
+activity#io.dcloud.PandoraEntry
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:464:9-476:20
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:468:17-49
+	android:hardwareAccelerated
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:467:17-51
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:470:17-59
+	android:configChanges
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:466:17-96
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:469:17-56
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:465:17-54
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:471:13-475:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:472:17-68
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:472:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:474:17-76
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:474:27-74
+meta-data#DCLOUD_STREAMAPP_CHANNEL
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:483:9-485:65
+	android:value
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:485:17-63
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:484:17-56
+activity#com.HBuilder.integrate.ActivityEntry
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:489:9-504:20
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:494:17-49
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:492:17-49
+	android:launchMode
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:493:17-48
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:495:17-59
+	android:configChanges
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:491:17-67
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:490:17-46
+activity#com.HBuilder.integrate.SDK_WebApp
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:505:9-510:20
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:508:17-49
+	android:configChanges
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:507:17-116
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:509:17-51
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:506:17-43
+activity#com.HBuilder.integrate.SDK_WebView
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:511:9-515:53
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:514:17-51
+	android:configChanges
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:513:17-116
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:515:17-51
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:512:17-44
+activity#com.HBuilder.integrate.MainActivity
+ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:516:9-517:20
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:516:19-47
+uses-sdk
+INJECTED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Administrator\.android\build-cache\3c1d133985417de99bb3f89b94606fc32814b9e4\output\AndroidManifest.xml:18:5-42
+MERGED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:7:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.android\build-cache\79707bc59f88d6b3ba64a3c3cde293c92f8f65ec\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator\.android\build-cache\78f1c7f6bf627c92fa601c6bf8a3c4db81f44055\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrator\.android\build-cache\f6f3fc5cf4df975059fa8da14a65b6deec81d9da\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrator\.android\build-cache\11ea629048950f552ba5daf7c5d37c1f69e973c3\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrator\.android\build-cache\9d73a76fd775093daa3807a9a44c58299fc35efb\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Administrator\.android\build-cache\42c7295821619b06e488077705f031a83a1eb45c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Administrator\.android\build-cache\79e91a7242f2dc44033de03550981d7d5b17f0da\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrator\.android\build-cache\f467460faa45754717f250cca72360ef8c7750a9\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrator\.android\build-cache\1ad6a950a8f8dd840c713be367d9dcf91503dce0\output\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.android\build-cache\a98dc62f4fb87b6d04b4e7e0cddf92ae68759d82\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Administrator\.android\build-cache\08521b768343a850d118af59a556e2161d8d584b\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.android\build-cache\79707bc59f88d6b3ba64a3c3cde293c92f8f65ec\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.GET_TASKS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:19:22-65
+uses-permission#android.permission.READ_CONTACTS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:21:5-72
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:21:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:26:5-73
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:26:22-70
+uses-permission#com.android.launcher.permission.UNINSTALL_SHORTCUT
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:28:5-90
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:28:22-87
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:30:5-71
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:30:22-68
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:32:5-88
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:32:22-85
+uses-permission#android.permission.SEND_SMS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:33:5-67
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:33:22-64
+uses-permission#android.permission.WRITE_SMS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:40:5-68
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:40:22-65
+uses-permission#android.permission.READ_SMS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:41:5-67
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:41:22-64
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:44:5-85
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:44:22-82
+uses-permission#com.android.launcher2.permission.READ_SETTINGS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:45:5-86
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:45:22-83
+uses-permission#com.android.launcher3.permission.READ_SETTINGS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:46:5-86
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:46:22-83
+uses-permission#com.yulong.android.launcherL.permission.READ_SETTINGS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:47:5-93
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:47:22-90
+uses-permission#com.meizu.flyme.launcher.permission.READ_SETTINGS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:48:5-89
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:48:22-86
+uses-permission#com.bbk.launcher2.permission.READ_SETTINGS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:49:5-82
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:49:22-79
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:50:5-82
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:50:22-79
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:51:5-81
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:51:22-78
+uses-permission#com.qiku.launcher.permission.READ_SETTINGS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:52:5-82
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:52:22-79
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:53:5-92
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:53:22-89
+uses-permission#com.zte.mifavor.launcher.permission.READ_SETTINGS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:54:5-89
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:54:22-86
+uses-permission#com.lenovo.launcher.permission.READ_SETTINGS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:55:5-84
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:55:22-81
+uses-permission#com.google.android.launcher.permission.READ_SETTINGS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:56:5-92
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:56:22-89
+uses-permission#com.yulong.android.launcher3.READ_SETTINGS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:57:5-82
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:57:22-79
+uses-permission#org.adw.launcher.permission.READ_SETTINGS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:58:5-81
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:58:22-78
+uses-permission#com.qihoo360.launcher.permission.READ_SETTINGS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:59:5-86
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:59:22-83
+uses-permission#com.lge.launcher.permission.READ_SETTINGS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:60:5-81
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:60:22-78
+uses-permission#net.qihoo.launcher.permission.READ_SETTINGS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:61:5-83
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:61:22-80
+uses-permission#org.adwfreak.launcher.permission.READ_SETTINGS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:62:5-86
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:62:22-83
+uses-permission#org.adw.launcher_donut.permission.READ_SETTINGS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:63:5-87
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:63:22-84
+uses-permission#com.huawei.launcher3.permission.READ_SETTINGS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:64:5-85
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:64:22-82
+uses-permission#com.fede.launcher.permission.READ_SETTINGS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:65:5-82
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:65:22-79
+uses-permission#com.sec.android.app.twlauncher.settings.READ_SETTINGS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:66:5-93
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:66:22-90
+uses-permission#com.tencent.qqlauncher.permission.READ_SETTINGS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:67:5-87
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:67:22-84
+uses-permission#com.huawei.launcher2.permission.READ_SETTINGS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:68:5-85
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:68:22-82
+uses-permission#com.ebproductions.android.launcher.permission.READ_SETTINGS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:69:5-99
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:69:22-96
+uses-permission#com.nd.android.launcher.permission.READ_SETTINGS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:70:5-88
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:70:22-85
+uses-permission#com.yulong.android.launcher.permission.READ_SETTINGS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:71:5-92
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:71:22-89
+uses-permission#com.android.mylauncher.permission.READ_SETTINGS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:72:5-87
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:72:22-84
+uses-permission#com.ztemt.launcher.permission.READ_SETTINGS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:73:5-83
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:73:22-80
+uses-permission#cn.nubia.launcher.permission.READ_SETTINGS
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:74:5-82
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:74:22-79
+uses-permission#com.gionee.amisystem.permission.READ_SHORTCUT
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:75:5-85
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:75:22-82
+activity#io.dcloud.PandoraEntryActivity
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:81:9-97:20
+	android:screenOrientation
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:86:13-45
+	android:hardwareAccelerated
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:83:13-47
+	android:launchMode
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:84:13-44
+	android:windowSoftInputMode
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:88:13-55
+	android:permission
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:85:13-89
+	android:theme
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:87:13-47
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:82:13-58
+service#io.dcloud.common.adapter.io.MiniServerService
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:99:9-101:40
+	android:exported
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:101:13-37
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:100:13-73
+receiver#io.dcloud.common.adapter.io.PushReceiver
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:103:9-107:20
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:103:19-74
+intent-filter#dcloud.push.broswer
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:104:13-106:29
+action#dcloud.push.broswer
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:105:17-62
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:105:25-59
+activity#io.dcloud.imagepick.CustomGalleryActivity
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:109:9-112:40
+	android:exported
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:111:13-37
+	android:noHistory
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:112:13-37
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:110:13-69
+activity#io.dcloud.feature.nativeObj.photoview.PhotoActivity
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:113:9-116:58
+	android:noHistory
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:115:13-38
+	android:theme
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:116:13-55
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:114:13-79
+activity#io.dcloud.appstream.StreamAppMainActivity
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:117:9-138:20
+	android:screenOrientation
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:122:13-49
+	android:launchMode
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:121:13-44
+	android:exported
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:120:13-36
+	android:windowSoftInputMode
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:125:13-73
+	android:configChanges
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:119:13-82
+	android:theme
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:124:13-70
+	android:taskAffinity
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:123:13-41
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:118:13-69
+intent-filter#android.intent.action.MAIN
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:126:13-128:29
+activity#io.dcloud.WebAppActivity
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:139:9-149:58
+	android:screenOrientation
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:146:13-49
+	android:label
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:144:13-46
+	android:hardwareAccelerated
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:142:13-47
+	android:launchMode
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:145:13-44
+	android:windowSoftInputMode
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:149:13-55
+	android:configChanges
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:141:13-82
+	android:icon
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:143:13-51
+	android:theme
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:148:13-47
+	android:taskAffinity
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:147:13-43
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:140:13-52
+service#io.dcloud.streamdownload.DownloadService
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:151:9-155:19
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:151:18-73
+intent-filter#com.qihoo.life.plugin.streamapp.ACTION_PUSH_TO_PLUGIN
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:152:13-154:29
+action#com.qihoo.life.plugin.streamapp.ACTION_PUSH_TO_PLUGIN
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:153:17-96
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:153:25-93
+service#io.dcloud.appstream.service.DaemonService
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:156:9-159:41
+	android:process
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:159:13-38
+	android:exported
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:158:13-37
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:157:13-69
+service#io.dcloud.appstream.service.ProtectService
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:160:9-162:40
+	android:exported
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:162:13-37
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:161:13-70
+receiver#io.dcloud.appstream.receiver.DaemonReceiver
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:164:9-170:20
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:164:19-77
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:165:13-169:29
+	android:priority
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:165:28-51
+service#io.dcloud.multiprocess.service.MultiProcessService
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:172:9-86
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:172:18-83
+activity#io.dcloud.multiprocess.activity.WebAppActivity1
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:174:9-185:58
+	android:process
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:181:13-61
+	android:screenOrientation
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:182:13-49
+	android:label
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:179:13-46
+	android:hardwareAccelerated
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:177:13-47
+	android:launchMode
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:180:13-44
+	android:windowSoftInputMode
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:185:13-55
+	android:configChanges
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:176:13-82
+	android:icon
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:178:13-51
+	android:theme
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:184:13-47
+	android:taskAffinity
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:183:13-44
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:175:13-75
+activity#io.dcloud.appstream.OpenStreamAppTransferActivity
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:186:9-192:20
+	android:screenOrientation
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:189:13-49
+	android:windowSoftInputMode
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:191:13-73
+	android:configChanges
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:188:13-82
+	android:theme
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:190:13-70
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:187:13-77
+meta-data#MultiProcessCount
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:194:9-196:33
+	android:value
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:196:13-30
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:195:13-45
+activity#io.dcloud.ProcessMediator
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:198:9-204:75
+	android:label
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:202:13-45
+	android:excludeFromRecents
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:200:13-46
+	android:launchMode
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:203:13-43
+	android:exported
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:201:13-36
+	android:theme
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:204:13-72
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:199:13-53
+activity#io.dcloud.WebviewActivity
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:205:9-210:20
+	android:screenOrientation
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:207:13-49
+	android:windowSoftInputMode
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:209:13-52
+	android:theme
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:208:13-51
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:206:13-53
+meta-data#android.max_aspect
+ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:218:9-220:35
+	android:value
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:220:13-32
+	android:name
+		ADDED from [:lib.5plus.base-release:] C:\Users\Administrator\.android\build-cache\2ad8c0669fefeb3f697e425b56b001e75f262566\output\AndroidManifest.xml:219:13-46
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:2:1-520:12 reason: io.dcloud requested WRITE_EXTERNAL_STORAGE
+uses-permission#android.permission.READ_CALL_LOG
+IMPLIED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:2:1-520:12 reason: io.dcloud has targetSdkVersion < 16 and requested READ_CONTACTS
+uses-permission#android.permission.WRITE_CALL_LOG
+IMPLIED from C:\Users\Administrator\Desktop\HBuilder-Integrate-AS\HBuilder-Integrate-AS\app\src\main\AndroidManifest.xml:2:1-520:12 reason: io.dcloud has targetSdkVersion < 16 and requested WRITE_CONTACTS
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.android\build-cache\79707bc59f88d6b3ba64a3c3cde293c92f8f65ec\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator\.android\build-cache\78f1c7f6bf627c92fa601c6bf8a3c4db81f44055\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrator\.android\build-cache\f6f3fc5cf4df975059fa8da14a65b6deec81d9da\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrator\.android\build-cache\11ea629048950f552ba5daf7c5d37c1f69e973c3\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrator\.android\build-cache\9d73a76fd775093daa3807a9a44c58299fc35efb\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Administrator\.android\build-cache\42c7295821619b06e488077705f031a83a1eb45c\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Administrator\.android\build-cache\79e91a7242f2dc44033de03550981d7d5b17f0da\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrator\.android\build-cache\f467460faa45754717f250cca72360ef8c7750a9\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrator\.android\build-cache\1ad6a950a8f8dd840c713be367d9dcf91503dce0\output\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.android\build-cache\79707bc59f88d6b3ba64a3c3cde293c92f8f65ec\output\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Administrator\.android\build-cache\79707bc59f88d6b3ba64a3c3cde293c92f8f65ec\output\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.android\build-cache\a98dc62f4fb87b6d04b4e7e0cddf92ae68759d82\output\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.android\build-cache\a98dc62f4fb87b6d04b4e7e0cddf92ae68759d82\output\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.android\build-cache\a98dc62f4fb87b6d04b4e7e0cddf92ae68759d82\output\AndroidManifest.xml:26:13-58

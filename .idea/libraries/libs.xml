@@ -1,0 +1,48 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://G:/libs/alipaySingle-20161222.jar!/" />
+      <root url="jar://G:/libs/alipayutdid.jar!/" />
+      <root url="jar://G:/libs/AMap_3DMap_V2.4.1.jar!/" />
+      <root url="jar://G:/libs/AMap_Location_V3.3.0_20170118.jar!/" />
+      <root url="jar://G:/libs/AMap_Services_V2.4.0.jar!/" />
+      <root url="jar://G:/libs/aps-dhPush.jar!/" />
+      <root url="jar://G:/libs/aps-igexin.jar!/" />
+      <root url="jar://G:/libs/aps-xiaomi.jar!/" />
+      <root url="jar://G:/libs/aps.jar!/" />
+      <root url="jar://G:/libs/geolocation-amap.jar!/" />
+      <root url="jar://G:/libs/geolocation-baidu.jar!/" />
+      <root url="jar://G:/libs/GetuiSDK2.10.3.5.jar!/" />
+      <root url="jar://G:/libs/map-amap.jar!/" />
+      <root url="jar://G:/libs/map-baidu.jar!/" />
+      <root url="jar://G:/libs/messaging.jar!/" />
+      <root url="jar://G:/libs/MiPush_SDK_Client_3_1_2.jar!/" />
+      <root url="jar://G:/libs/Msc.jar!/" />
+      <root url="jar://G:/libs/oauth-miui.jar!/" />
+      <root url="jar://G:/libs/oauth-qq.jar!/" />
+      <root url="jar://G:/libs/oauth-sina.jar!/" />
+      <root url="jar://G:/libs/oauth-weixin.jar!/" />
+      <root url="jar://G:/libs/ojdbc6-11.2.0.2.0.jar!/" />
+      <root url="jar://G:/libs/payment-alipay.jar!/" />
+      <root url="jar://G:/libs/payment-weixin.jar!/" />
+      <root url="jar://G:/libs/qq_mta-sdk-1.6.2.jar!/" />
+      <root url="jar://G:/libs/qq_sdk_v3.1.0.jar!/" />
+      <root url="jar://G:/libs/share-qq.jar!/" />
+      <root url="jar://G:/libs/share-sina.jar!/" />
+      <root url="jar://G:/libs/share-tencent.jar!/" />
+      <root url="jar://G:/libs/share-weixin.jar!/" />
+      <root url="jar://G:/libs/sinaweibo4.1.jar!/" />
+      <root url="jar://G:/libs/speech.jar!/" />
+      <root url="jar://G:/libs/speech_ifly.jar!/" />
+      <root url="jar://G:/libs/statistics-umeng.jar!/" />
+      <root url="jar://G:/libs/tx_weibo_sdk-httpclient-3.0.1.jar!/" />
+      <root url="jar://G:/libs/tx_weibo_sdk.jar!/" />
+      <root url="jar://G:/libs/tx_weibo_sdk_component.jar!/" />
+      <root url="jar://G:/libs/tx_wx.jar!/" />
+      <root url="jar://G:/libs/umeng-analytics-v6.0.1.jar!/" />
+      <root url="jar://G:/libs/xiaomi-oauth.1.6.6.jar!/" />
+      <root url="jar://G:/libs/json-lib-2.2.3-jdk15.jar!/" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
